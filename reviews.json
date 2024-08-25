@@ -1,124 +1,40 @@
 {
   "reviews": [
     {
-      "professor": "Dr. John Smith",
-      "subject": "Introduction to Computer Science",
-      "stars": 5,
-      "review": "Dr. Smith is an excellent professor who explains complex topics clearly. His lectures are engaging, and he's always willing to help students during office hours."
+      "professor": "Dr. Elizabeth Goins",
+      "review": "Incredible professor who explains concepts clearly and engages students actively.",
+      "subject": "English",
+      "stars": 5
     },
     {
-      "professor": "Dr. Emily Davis",
-      "subject": "Calculus I",
-      "stars": 4,
-      "review": "Dr. Davis is a knowledgeable and patient instructor. The course material is challenging, but she makes it manageable. Her exams are tough but fair."
+      "professor": "Prof. Amelia Rodriguez",
+      "review": "Very knowledgeable and approachable. She makes difficult topics easy to understand.",
+      "subject": "Physics",
+      "stars": 4
     },
     {
-      "professor": "Dr. Michael Brown",
-      "subject": "Organic Chemistry",
-      "stars": 3,
-      "review": "Dr. Brown knows his stuff, but his teaching style can be a bit dry. It's easy to fall behind if you're not paying attention. The labs were helpful, though."
+      "professor": "Dr. Samuel Carter",
+      "review": "Good lecturer but sometimes a bit fast-paced. Overall, a great learning experience.",
+      "subject": "Computer Science",
+      "stars": 4
     },
     {
-      "professor": "Dr. Linda Green",
-      "subject": "English Literature",
-      "stars": 5,
-      "review": "Dr. Green is passionate about literature and it shows in her teaching. Her classes are thought-provoking and she encourages deep analysis of the texts."
+      "professor": "Prof. Lisa Patel",
+      "review": "Excellent at breaking down complex ideas into digestible parts. Very supportive.",
+      "subject": "Chemistry",
+      "stars": 5
     },
     {
-      "professor": "Dr. Robert Johnson",
-      "subject": "Physics II",
-      "stars": 2,
-      "review": "Dr. Johnson's lectures are hard to follow, and the material is not well-organized. He seems knowledgeable, but I struggled to keep up with the course."
+      "professor": "Dr. Michael Nguyen",
+      "review": "Patient and thorough, but his grading is tough. Be prepared to work hard.",
+      "subject": "Biology",
+      "stars": 3
     },
     {
-      "professor": "Dr. Susan Miller",
-      "subject": "Microeconomics",
-      "stars": 4,
-      "review": "Dr. Miller's class is challenging but rewarding. She provides real-world examples that make the concepts easier to understand."
-    },
-    {
-      "professor": "Dr. James Wilson",
-      "subject": "Introduction to Psychology",
-      "stars": 3,
-      "review": "Dr. Wilson is a decent lecturer, but his lectures can be a bit monotonous. The course content is interesting, though."
-    },
-    {
-      "professor": "Dr. Karen Lee",
-      "subject": "Biology 101",
-      "stars": 5,
-      "review": "Dr. Lee is a fantastic professor who genuinely cares about her students. Her lectures are clear, and she makes complex topics easy to understand."
-    },
-    {
-      "professor": "Dr. Charles Martinez",
-      "subject": "World History",
-      "stars": 4,
-      "review": "Dr. Martinez is very knowledgeable and presents history in an engaging way. His exams are challenging but fair."
-    },
-    {
-      "professor": "Dr. Patricia Taylor",
-      "subject": "Philosophy 101",
-      "stars": 2,
-      "review": "Dr. Taylor's lectures are hard to follow, and the material can be confusing. I had a tough time with this course."
-    },
-    {
-      "professor": "Dr. Richard Harris",
-      "subject": "Statistics",
-      "stars": 3,
-      "review": "Dr. Harris is a good professor, but his lectures can be a bit dry. The material is challenging, but his office hours are helpful."
-    },
-    {
-      "professor": "Dr. Barbara Clark",
-      "subject": "Sociology",
-      "stars": 4,
-      "review": "Dr. Clark is an engaging lecturer who encourages class discussions. Her assignments are thought-provoking and relevant."
-    },
-    {
-      "professor": "Dr. Mark Lewis",
-      "subject": "Environmental Science",
-      "stars": 5,
-      "review": "Dr. Lewis is passionate about the environment and it shows in his teaching. His classes are informative and inspiring."
-    },
-    {
-      "professor": "Dr. Jennifer Walker",
-      "subject": "Creative Writing",
-      "stars": 4,
-      "review": "Dr. Walker is an inspiring professor who encourages creativity. Her feedback is constructive, and she creates a supportive classroom environment."
-    },
-    {
-      "professor": "Dr. William Allen",
-      "subject": "Introduction to Philosophy",
-      "stars": 3,
-      "review": "Dr. Allen is knowledgeable, but his lectures can be a bit hard to follow. The course material is interesting but challenging."
-    },
-    {
-      "professor": "Dr. Nancy King",
-      "subject": "Macroeconomics",
-      "stars": 5,
-      "review": "Dr. King is an excellent professor who makes complex economic concepts easy to understand. Her lectures are clear and engaging."
-    },
-    {
-      "professor": "Dr. Thomas Wright",
-      "subject": "Advanced Calculus",
-      "stars": 4,
-      "review": "Dr. Wright is a great professor who explains difficult concepts well. His exams are tough, but he prepares students well."
-    },
-    {
-      "professor": "Dr. Sarah Scott",
-      "subject": "Introduction to Art History",
-      "stars": 4,
-      "review": "Dr. Scott is passionate about art and it shows in her teaching. Her classes are interesting, and she encourages students to think critically about art."
-    },
-    {
-      "professor": "Dr. George Adams",
-      "subject": "Political Science",
-      "stars": 3,
-      "review": "Dr. Adams is knowledgeable, but his lectures can be a bit dry. The course material is interesting, but the exams are challenging."
-    },
-    {
-      "professor": "Dr. Jessica White",
-      "subject": "Chemistry 101",
-      "stars": 5,
-      "review": "Dr. White is an excellent professor who explains chemistry concepts clearly. Her labs are well-organized, and she's always willing to help students."
+      "professor": "Prof. Emily Thompson",
+      "review": "Engaging lectures with a lot of real-world examples. Encourages critical thinking.",
+      "subject": "Philosophy",
+      "stars": 5
     }
   ]
 }
