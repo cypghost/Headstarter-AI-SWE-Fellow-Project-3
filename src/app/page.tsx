@@ -10,8 +10,7 @@ import { useState, useRef, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { ArrowUpward } from "@mui/icons-material";
 import ReactMarkdown from "react-markdown";
-import Navbar from "./components/navbar";
-import IntroMessage from "./components/intromessage";
+import IntroMessage from "./components/IntroMessage";
 import Image from "next/image.js";
 
 export default function Home() {
